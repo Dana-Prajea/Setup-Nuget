@@ -1,5 +1,5 @@
-name: 'Setup Nuget.exe'
-description: 'Goes and downloads latest Nuget.exe as CLI tool and puts it into the path'
+name: 'Setup Nuget.exe with core 1.2.6'
+description: 'Goes and downloads latest Nuget.exe as CLI tool and puts it into the path. Avoid add-path error'
 author: 'Warren Buckley'
 runs:
   using: 'node12'
